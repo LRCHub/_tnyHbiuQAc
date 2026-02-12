@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Gimme More",
+  "base_artist": "Britney Spears",
+  "createdAt": "2026-02-12T05:47:39.864458Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gimme More",
+      "artist": "Novaspace",
+      "has_synced": false,
+      "path": "select/01_Gimme_More_Novaspace.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gimme More",
+      "artist": "Twenty 4 Seven",
+      "has_synced": false,
+      "path": "select/02_Gimme_More_Twenty_4_Seven.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gimme More",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/03_Gimme_More_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gimme More - Kaskade Club Mix",
+      "artist": "Britney Spears",
+      "has_synced": false,
+      "path": "select/04_Gimme_More_-_Kaskade_Club_Mix_Britney_Spears.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gimme More - Paul Oakenfold Remix",
+      "artist": "Britney Spears",
+      "has_synced": false,
+      "path": "select/05_Gimme_More_-_Paul_Oakenfold_Remix_Britney_Spears.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gimme More",
+      "artist": "Kiss",
+      "has_synced": true,
+      "path": "select/06_Gimme_More_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Gimme More",
+      "artist": "Britney Spears",
+      "has_synced": false,
+      "path": "select/07_Gimme_More_Britney_Spears.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gimme More Of Your Love",
+      "artist": "Soultans",
+      "has_synced": false,
+      "path": "select/08_Gimme_More_Of_Your_Love_Soultans.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gimme More",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/09_Gimme_More_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gimme More (Kaskade radio edit)",
+      "artist": "Britney Spears",
+      "has_synced": false,
+      "path": "select/10_Gimme_More_(Kaskade_radio_edit)_Britney_Spears.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gimme More (Kaskade Radio Radio Edit)",
+      "artist": "Britney Spears",
+      "has_synced": false,
+      "path": "select/11_Gimme_More_(Kaskade_Radio_Radio_Edit)_Britney_Spears.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gimme More",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/12_Gimme_More_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gimme More",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/13_Gimme_More_Britney_Spears.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gimme More",
+      "artist": "Britney Spears",
+      "has_synced": false,
+      "path": "select/pl_01_Gimme_More_Britney_Spears.txt"
+    }
+  ]
+}
